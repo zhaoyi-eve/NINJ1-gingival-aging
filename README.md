@@ -11,7 +11,6 @@ Shuang Jiang1,2, Yuan Wang1,2, Junwen Wang3, Qi Yin1,*, Quan Yuan1,2, *
 1 State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, Sichuan, China.
 2 Department of Oral Implantology, West China Hospital of Stomatology, Sichuan University, 610041 Chengdu, Sichuan, China.
 3 Division of Applied Oral Sciences & Community Dental Care, Faculty of Dentistry, The University of Hong Kong, 34 Hospital Road, Hong Kong SAR, China.
-* Corresponding Authors
 
 
 # Abstract
